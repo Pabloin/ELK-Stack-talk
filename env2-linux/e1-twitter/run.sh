@@ -10,7 +10,7 @@
 # Running CMD : https://www.elastic.co/guide/en/logstash/6.2/running-logstash-command-line.html
 # Running       https://www.elastic.co/guide/en/logstash/6.2/running-logstash.html
 
-export ELK_HOME=/home/pablo/github/ELK-Stack-talk
+export ELK_HOME=/home/pablo/github/ELK-Stack-talk/env2-linux
 
 echo "Utilzia la version de logstash: logstash 6.2.2 "
 /usr/share/logstash/bin/logstash --version
