@@ -2,5 +2,4 @@ ELK Stack on Twitter
 
 Based on:
 
-Vamos a otro dashboard
-
+Dashboard de Personajes: héroes vs Messi
