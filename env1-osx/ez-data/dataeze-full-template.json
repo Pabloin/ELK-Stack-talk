@@ -1,5 +1,5 @@
 {
-  "index_patterns": "sensor_full_dataeze",
+  "index_patterns": "sensor_full_dataeze_e",
 
   "settings": {
     "number_of_shards": 1,
