@@ -1,0 +1,25 @@
+{
+  "index_patterns": "sensor_full_dataeze_e",
+
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "mapping": {
+      "total_fields": {
+        "limit": "10000"
+      }
+    }
+  },
+
+  "mappings": { 
+    "doc_sensores": {
+      "properties": { 
+        "location": { 
+          "type": "geo_point"
+        } 
+      } 
+    } 
+  } 
+
+
+}
